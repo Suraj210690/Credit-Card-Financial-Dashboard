@@ -1,5 +1,5 @@
 # Credit-Card-Financial-Dashboard
-🚀 Credit Card Customer &amp; Transaction Analysis Dashboard – Power BI Project  Over the past few days, I worked on designing and analyzing a Credit Card Overview Dashboard using Power BI to understand revenue trends, customer behaviour, and transaction patterns.
+🚀 Credit Card Customer &amp; Transaction Analysis Dashboard – Power BI Project  Over the past few days, I worked on designing and analyzing a Credit Card Overview Dashboard using Power BI to understand revenue trends, customer behaviour, and transaction patterns — and here are the key insights I uncovered 👇
 
 Over the past few days, I worked on designing and analyzing a Credit Card Overview Dashboard using Power BI to understand revenue trends, customer behaviour, and transaction patterns — and here are the key insights I uncovered 👇
 
