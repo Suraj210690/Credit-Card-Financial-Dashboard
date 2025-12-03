@@ -45,7 +45,7 @@ Revenue remains consistent across quarters, with Q3 showing slightly higher acti
 
 Thanks for reading — looking forward to feedback and suggestions! 😊
 
-#PowerBI #Dashboard #DataAnalytics #DataVisualization #BusinessIntelligence #DataAnalystJourney #LearningByDoing #CreditCardAnalysis #SQL hashtag#DAX #PowerQuery
+#PowerBI #Dashboard #DataAnalytics #DataVisualization #BusinessIntelligence #DataAnalystJourney #LearningByDoing #CreditCardAnalysis #SQL #DAX #PowerQuery
 
 <img width="1322" height="738" alt="image" src="https://github.com/user-attachments/assets/9ec0deef-ace9-45db-a1c7-4d59b27feb48" />
 
